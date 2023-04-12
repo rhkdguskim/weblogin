@@ -43,4 +43,8 @@ app.get('/', (req,res) => {
     
 })
 
+app.post('/', (req,res) => {
+  
+})
+
 app.listen(8000);
